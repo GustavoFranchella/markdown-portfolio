@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[My article Moore's Law and Global Warming](https://www.linkedin.com/pulse/moores-law-global-warming-gustavo-franchella)
